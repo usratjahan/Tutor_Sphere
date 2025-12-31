@@ -1,1 +1,2 @@
 # Tutor_Sphere
+TutorSphere is a peer learning platform designed to help students find trustworthy academic support from verified mentors within their institution. In modern education, learners often struggle to find dependable peers who can provide tutoring support in specific subjects. This system solves that problem by enabling two essential roles; mentors (peer tutors) and learners (students seeking help) to connect digitally through a simple matchmaking process.
