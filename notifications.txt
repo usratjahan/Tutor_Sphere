@@ -1,0 +1,22 @@
+
+usrat@gmail.com,maho,maho@gmail.com,math,accepted your tutoring request for math.
+maho@gmail.com,usrat,usrat@gmail.com,Request,Your tutoring request for english was accepted by usrat.,2025-11-18 09:33:20
+usrat@gmail.com,usrat,ADMIN,Verification,Your tutor verification has been approved! You are now a verified tutor.,2025-11-24 19:01:04
+mahi@gmail.com,mahi,ADMIN,Verification,Your tutor verification has been approved! You are now a verified tutor.,2025-12-01 22:09:32
+mahin@gmail.com,mahin,ADMIN,Verification,Your tutor verification has been approved! You are now a verified tutor.,2025-12-02 09:33:51
+mahi@gmail.com,maho,maho@gmail.com,math,accepted your tutoring request for math.
+mahi@gmail.com,maho,maho@gmail.com,math,accepted your tutoring request for math.
+usrat@gmail.com,maho,maho@gmail.com,english,accepted your tutoring request for english.
+usrat@gmail.com,maho,maho@gmail.com,english,accepted your tutoring request for english.
+usrat@gmail.com,maho,maho@gmail.com,english,accepted your tutoring request for english.
+maho@gmail.com,usrat,usrat@gmail.com,Request,Your tutoring request for math was accepted by usrat.,2025-12-03 12:55:51
+maho@gmail.com,usrat,usrat@gmail.com,Request,Your tutoring request for math was accepted by usrat.,2025-12-03 12:55:51
+maho@gmail.com,usrat,usrat@gmail.com,Request,Your tutoring request for math was accepted by usrat.,2025-12-03 12:55:51
+maho@gmail.com,usrat,usrat@gmail.com,Request,Your tutoring request for math was accepted by usrat.,2025-12-03 12:55:51
+maho@gmail.com,usrat,usrat@gmail.com,Request,Your tutoring request for math was accepted by usrat.,2025-12-03 12:55:51
+maho@gmail.com,usrat,usrat@gmail.com,Request,Your tutoring request for math was accepted by usrat.,2025-12-03 12:55:51
+mahin@gmail.com,maho,MAHO@GMAIL.COM,math, ✔️ accepted your tutoring request for math.
+maho@gmail.com,usrat,usrat@gmail.com,Request,Your tutoring request for english was accepted by usrat.,2025-12-03 12:58:12
+maho@gmail.com,usrat,usrat@gmail.com,Request,Your tutoring request for english was accepted by usrat.,2025-12-03 12:58:12
+maho@gmail.com,usrat,usrat@gmail.com,Request,Your tutoring request for english was accepted by usrat.,2025-12-03 12:58:12
+maho@gmail.com,usrat,usrat@gmail.com,Request,Your tutoring request for english was accepted by usrat.,2025-12-03 12:58:12

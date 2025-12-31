@@ -1,0 +1,6 @@
+Tutor,usrat,usrat@gmail.com,23,english,math,12345678,
+Student,maho,MAHO@GMAIL.COM,17,math,12345678,female,10-Science
+Student,sami,sami@gmail.com,14,math, bangla,12345678,male,8
+Tutor,mahin,mahin@gmail.com,32,math,123456789,male,
+Student,Student,student@gmail.com,32,math,12345678,male,10
+Tutor,mahi,mahi@gmail.com,32,math,8765432,female,
