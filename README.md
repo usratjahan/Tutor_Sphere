@@ -56,6 +56,15 @@ Waits for tutor response
 <img width="780" height="408" alt="image" src="https://github.com/user-attachments/assets/e02ff3e8-c4fd-48dd-aea6-287e41d7de87" />
 <img width="771" height="408" alt="image" src="https://github.com/user-attachments/assets/580a07b8-9a02-44af-9986-53c8f5abc531" />
 <img width="783" height="408" alt="image" src="https://github.com/user-attachments/assets/52d8e331-df76-4ef4-bdaa-8a44acd6f268" />
+<img width="783" height="425" alt="image" src="https://github.com/user-attachments/assets/5e03e786-cc98-4f13-b47f-eb5d644e3c62" />
+<img width="773" height="407" alt="image" src="https://github.com/user-attachments/assets/67911148-d0e7-4dc9-8eb0-31477bb142fd" />
+<img width="776" height="417" alt="image" src="https://github.com/user-attachments/assets/bbb45c3a-05e7-47f8-9d48-81c63649e26d" />
+<img width="769" height="410" alt="image" src="https://github.com/user-attachments/assets/000a350d-ce75-4d82-ab1e-65f2259ca72f" />
+<img width="778" height="424" alt="image" src="https://github.com/user-attachments/assets/2a1b437c-991e-4a2d-b752-9c96256287fa" />
+<img width="789" height="405" alt="image" src="https://github.com/user-attachments/assets/7349ae24-ae83-4eea-9720-6022621dc126" />
+<img width="776" height="426" alt="image" src="https://github.com/user-attachments/assets/d97e9793-6069-4f86-aa36-068fd1aa726b" />
+<img width="776" height="419" alt="image" src="https://github.com/user-attachments/assets/4351421b-1bc9-4f7d-b3f8-6f164b4ba447" />
+<img width="784" height="406" alt="image" src="https://github.com/user-attachments/assets/8376f6ca-cbd4-470a-bb42-543f11309f39" />
 
 
 
